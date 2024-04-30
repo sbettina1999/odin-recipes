@@ -1,0 +1,16 @@
+#title {
+    color: blueviolet;
+    background-color: lightblue;
+    text-align: center;
+    font-weight: 500;
+}
+
+.subtitle {
+    color: blueviolet;
+    background-color: lightblue;
+    font-size: 18px;
+}
+
+.subtitle.ingre {
+    color: blue;
+}
